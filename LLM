@@ -1,0 +1,11 @@
+LLM
+  LLM01:2023 - Prompt Injections
+  LLM02:2023 - Data Leakage
+  LLM03:2023 - Inadequate Sandboxing
+  LLM04:2023 - Unauthorized Code Execution
+  LLM05:2023 - SSRF Vulnerabilities
+  LLM06:2023 - Overreliance on LLM-generated Content
+  LLM07:2023 - Inadequate AI Alignment
+  LLM08:2023 - Insufficient Access Controls
+  LLM09:2023 - Improper Error Handling
+  LLM10:2023 - Training Data Poisoning
