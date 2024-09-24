@@ -1,0 +1,27 @@
+python 
+    Exposure of sensitive information
+    Insertion of Sensitive Information Into Sent Data
+    Cross-Site Request Forgery (CSRF)
+    Use of Hard-coded Password
+    Broken or Risky Crypto Algorithm
+    Insufficient Entropy
+    XSS
+    SQL Injection
+    External Control of File Name or Path
+    Generation of Error Message Containing Sensitive Information
+    unprotected storage of credentials
+    Trust Boundary Violation
+    Insufficiently Protected Credentials
+    Restriction of XML External Entity Reference
+    Vulnerable and Outdated Components
+    Improper Validation of Certificate with Host Mismatch
+    Improper Authentication
+    Session Fixation
+    Inclusion of Functionality from Untrusted Control
+    Download of Code Without Integrity Check
+    Deserialization of Untrusted Data
+    Insufficient Logging
+    Improper Output Neutralization for Logs
+    Omission of Security-relevant Information
+    Sensitive Information into Log File
+    Server-Side Request Forgery (SSRF)
